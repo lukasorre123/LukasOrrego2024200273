@@ -3,14 +3,19 @@ using namespace std;
 
 //funciones para sumar
 float sumar(float a, float b){
-	return a + b;
+	return a + b;	
 }
+//funciones para restar
 float restar(float a, float b){
 	return a - b;
 }
+//funciones para multiplicar
+
 float multiplicar(float a, float b){
 	return a * b;
 }
+//funciones para dividir
+
 float dividir(float a, float b){
 	return a / b;
 }
