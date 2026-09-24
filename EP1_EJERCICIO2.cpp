@@ -2,16 +2,16 @@
 using namespace std;
 
 //funciones para sumar
-int sumar(int a, int b){
+float sumar(float a, float b){
 	return a + b;
 }
-int restar(int a, int b){
+float restar(float a, float b){
 	return a - b;
 }
-int multiplicar(int a, int b){
+float multiplicar(float a, float b){
 	return a * b;
 }
-int dividir(int a, int b){
+float dividir(float a, float b){
 	return a / b;
 }
 int main(){
